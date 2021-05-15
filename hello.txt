@@ -11,3 +11,6 @@ hello git! hello world！ hot-fix testtest
 hello git! hello world！ hot-fix test
 11111
 添加了ssh key
+pull成功
+尝试push上去
+
